@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/blicke-sagen-alles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Blicke sagen alles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blicke-sagen-alles/) |
+| **Get License** | [Obtain a Music License for Blicke sagen alles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/blicke-sagen-alles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `130dd3c2f570a66236315bf8864d8ced8333f7a0d9e3974ec36a05d601c2c1be` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
